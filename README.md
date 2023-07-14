@@ -1,2 +1,2 @@
 # JavaLearnings
-This contains all java topics and there examples
+This contains all java topics and related examples
